@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{ef167d56-d06b-4847-b8d8-6dc494bc298f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{538382dd-86ce-4a40-8609-7a4aeaf26ea3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="example1.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Data_process.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Evo_dynam.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="IBC.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Para.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="run_laplace_N_4.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="run_laplace_N_8.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="run_laplace_N_16.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="run_laplace_N_32.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="run_laplace_N_64.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="run_laplace_N_128.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Data_process.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Evo_dynam.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="IBC.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Para.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

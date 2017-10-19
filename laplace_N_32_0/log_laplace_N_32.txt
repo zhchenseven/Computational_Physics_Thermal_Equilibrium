@@ -1,0 +1,18 @@
+The data are stored in this text.
+This is the laplace_N_32 case.
+The initial boundary condition option is canonic
+The norm criterion is inf
+
+The parameters are:
+
+N = 32
+N_max = 50000
+N_itr = 1756
+err_bnd = 1e-06
+h = 0.0303030303
+x_low = 0
+x_sup = 1
+index = 0
+err_i = 0.2497168348
+err_f = 9.986277007e-07
+

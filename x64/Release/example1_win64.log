@@ -1,0 +1,37 @@
+﻿  Data_process.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C2146: syntax error: missing ')' before identifier 'a_value'
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C3646: 'a_value': unknown override specifier
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C2244: 'Data_process::num2str': unable to match function definition to an existing declaration
+  c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): note: see declaration of 'Data_process::num2str'
+  c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): note: definition
+  c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): note: 'std::string Data_process::num2str(const int)'
+  c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): note: existing declarations
+  c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): note: 'std::string Data_process::num2str(const T,const int)'
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C2988: unrecognizable template declaration/definition
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C2059: syntax error: ','
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C2059: syntax error: ')'
+  Evo_dynam.cpp
+  example1.cpp
+  IBC.cpp
+  Para.cpp
+  run_laplace_N_4.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C2146: syntax error: missing ')' before identifier 'a_value'
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C3646: 'a_value': unknown override specifier
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C2244: 'Data_process::num2str': unable to match function definition to an existing declaration
+  c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): note: see declaration of 'Data_process::num2str'
+  c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): note: definition
+  c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): note: 'std::string Data_process::num2str(const int)'
+  c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): note: existing declarations
+  c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): note: 'std::string Data_process::num2str(const T,const int)'
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C2988: unrecognizable template declaration/definition
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C2059: syntax error: ','
+c:\users\matt\dropbox\fall_2016\cfd\project\proj1\laplace_alt\Data_process.h(56): error C2059: syntax error: ')'
+run_laplace_N_4.cpp(18): error C2065: 'Project': undeclared identifier
+run_laplace_N_4.cpp(20): error C2065: 'Project': undeclared identifier
+run_laplace_N_4.cpp(27): error C2065: 'Project': undeclared identifier
+run_laplace_N_4.cpp(28): error C2065: 'Project': undeclared identifier
+run_laplace_N_4.cpp(29): error C2065: 'Project': undeclared identifier
+run_laplace_N_4.cpp(30): error C2065: 'Project': undeclared identifier
+  Generating Code...

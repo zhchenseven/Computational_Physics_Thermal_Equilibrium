@@ -1,0 +1,8 @@
+﻿  run_laplace_N_4.cpp
+  run_laplace_N_8.cpp
+  Generating Code...
+  example1_win64.vcxproj -> C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj1\Laplace_alt\x64\Debug\example1_win64.exe
+  example1_win64.vcxproj -> C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj1\Laplace_alt\x64\Debug\example1_win64.pdb (Full PDB)
+  lib_win64\blas_win64_MT.dll
+  lib_win64\lapack_win64_MT.dll
+          2 file(s) copied.
