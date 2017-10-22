@@ -1,6 +1,9 @@
 # include <iostream>
 # include <armadillo>
+// //windows use # include <direct.h>, linux use # include <sys/stat.h>, # include <sys/types.h>
 # include <direct.h>
+//# include <sys/stat.h>
+//# include <sys/types.h>
 # include "Data_process.h"
 # include <string>
 
