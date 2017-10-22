@@ -9,7 +9,7 @@ The run_*.cpp files provide main functions to invoke, embody the class and defin
 
 Here, we employ the python files for processing data and generating animations. In doing so, READ_DATA.py and Make_movie.py define the classes. gen_movie_script.py provides the main function.
 
-The MATLAB files also provide the funtionality for visualizing the results by plotting the 2D thermal equilibrium state. In particular, read_2D_data_1.m provides the main function for plotting while other .m files are auxiliary. 
+The MATLAB files also provide the funtionality for visualizing the results by plotting the 2D thermal equilibrium state. In particular, read_2D_data_1.m provides the main function for plotting while other .m files are auxiliary functions to be invoked. 
 
 
 Here, we also provide the necessary information for running the code. 
