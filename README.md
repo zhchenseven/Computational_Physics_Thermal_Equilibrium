@@ -16,3 +16,5 @@ Here, we also provide the necessary information for running the code.
 For the MATLAB code, MATLAB on any platform that are after MATLAB 2014b should work.
 For the python code, the project work by using the pycharm IDE with specified anaconda library. One thing that is worth noting is one may need to install the opencv3 for generating the animations. 
 For the C++ code, we invoke the Armadillo library (http://arma.sourceforge.net/) that provides MATLAB-like functions for linear algebra operations. For the Windows user, one needs to install the MS Visual Studio 2015, and open the example1_win64.vcxproj for running the code. For the Mac OS or Ubuntu user, one needs to install the armadillo library at first (please refer to the readme.txt in the downloaded armadillo package), then compile and link the codes.
+
+In the end, we attach several sub-folders to show the animations that represent the results and the error iteratively. This includes the cases of various mesh points.
